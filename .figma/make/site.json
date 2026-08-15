@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your skills and projects with a sleek dark-themed portfolio website designed for fresh graduates in computer science and software engineering.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
