@@ -18,7 +18,7 @@ const SKILLS = [
   {
     category: 'Back-End',
     icon: '◈',
-    items: ['Flask', 'Python', 'RESTful APIs', 'API Integration', 'N8N Chatbot'],
+    items: ['Flask', 'Python', 'RESTful APIs', 'API Integration', 'N8N Chatbot','PHP'],
   },
   {
     category: 'Mobile Development',
@@ -28,7 +28,7 @@ const SKILLS = [
   {
     category: 'Developer Tools',
     icon: '◎',
-    items: ['Git & GitHub', 'Linux / Bash', 'Design Thinking', 'Problem-Solving'],
+    items: ['Git & GitHub', 'Bash', 'Design Thinking', 'Problem-Solving'],
   },
 ]
 
