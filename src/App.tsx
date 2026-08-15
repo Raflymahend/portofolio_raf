@@ -37,8 +37,8 @@ const CERTIFICATES = [
     title: 'Panitia Pekan Olahraga Mahasiswa (POM) 2025',
     issuer: 'BEM Universitas Jenderal Achmad Yani Yogyakarta',
     date: '2025',
-    img: '/certificates/image-8.png',
-    file: '/certificates/image-8.png',
+    img: '/certificates/image-10.png',
+    file: '/certificates/image-10.png',
   },
   {
     title: 'Pemrogram Mobile Pratama',
